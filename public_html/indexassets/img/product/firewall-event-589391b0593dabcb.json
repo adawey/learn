@@ -1,0 +1,20 @@
+{
+  "action": "jschallenge",
+  "clientASNDescription": "MTC-KSA-AS",
+  "clientAsn": "43766",
+  "clientCountryName": "SA",
+  "clientIP": "51.39.232.252",
+  "clientRequestHTTPHost": "pm-tricks.com",
+  "clientRequestHTTPMethodName": "GET",
+  "clientRequestHTTPProtocol": "HTTP/2",
+  "clientRequestPath": "/assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.europe.js",
+  "clientRequestQuery": "",
+  "datetime": "2020-04-24T23:22:55Z",
+  "rayName": "589391b0593dabcb",
+  "ruleId": "seclvl",
+  "source": "securitylevel",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36",
+  "matchIndex": 0,
+  "metadata": [],
+  "sampleInterval": 1
+}

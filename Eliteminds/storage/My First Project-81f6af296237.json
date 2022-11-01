@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "turing-lyceum-293122",
+  "private_key_id": "81f6af296237ba55d856caf3084617127d4bd459",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgYR+LA078cGF7\nRyt93RSOWVuFu16OiyFexwTJSBnAYR8lzBAtsPhH5DVBSwmZDM0OQYLjazkjFVyP\nYzgVKft46qoO349ggU71tPylgqKu3kl1XBY1UMogbbGCcxPltQZoRH135lpYf0xH\nTeu23uv3gDj+MreNVG88zOXbED1WikoFOVnfBhNbSlJ/Lpykn4pLa5XtBtWZXgaw\nhklxjcYQJPOrirKzfJT7u5EuEdn3N3ndomS8dVzQnvU55ID341bK6HHViz3/YQE/\npRsJkzhJWUOUbI+RgjhzieBv+UTV6e8G1rE0Uweq8geHigh7Zv5wcTkomY0NPeH2\nxY2gHuFlAgMBAAECggEAE1kML17Pj1Q2amMgW8+JPJAKosRDKMKfnLm5OdgdJTCC\nS7LFy+FS3odpJk6ZYpGhBkSAeBOWIcWgtDqlyCXXrNNwfxlYyG1pG2rBZO0w15RA\n++vHURjFParGFKTx5E8Vrgv/L/EF+rGmv95mXpofkOzy0zXGn4HtZoIYg7g+khst\nMcOhpbcZonjkZIgjml5/EKp4mmuBHC/jZzR/ivh7CgesLqj1xukyJ/4/Kw9rENhh\nXq3McbNxUg3/hphG3jrIhb0J+amJ4WfNFN7dK1KgRDe3RDGy89qtGTdJi9fQEeLy\nXO44Z9mw2iqMotT1wCoFqtFc8x+Vbgh69bzPsL6pQQKBgQDd8AsSh0ieacnB0oO2\nHfQXYufIYIjKd0dEuL5jiKszKKstHY6fa4aYYQbAg5itQoWy1rG9ZnHVY4w+4iGF\nj942vvKVEA/GrreLfsdWSLXwvdmWtQCU+w52kDcauL4SMoFsug0p8KifdwzfhpiS\nNnyP7VOisi91tyqlpJrgZ4cvJQKBgQC4/nKszwap2205CKw5Q2woQqI/QLRsffD7\n8LWJ/EeSt7mvjfCIubwryo7kv1bO0CdpwZX+zQ1pge5rn83hAj8bzec4T0faEv9c\n8fagaNTPMhE4rpg+sjagYwgUpP+CVXhqV9eUCSUP2hgMBgo0jycqMEm4abAuzrth\n38LnIUB1QQKBgQCIgfrtfJRoC31zX/5vZ+EY+VbDYs0Aa3lEhbVlF0zl/J+88i8l\nU0fINfWnN8oS15XQuEk+y+I8dCxxCTnBIwp09eHTWbu6YwC2JlaJddOircNF9TLU\nb88nkfCy2Orf2nzM2Wr7XvD4lIsweWMim6zmAf2tVpfmebEbjTFN0Z/OmQKBgDDn\naw9N51gN3tDd/xFgRn5aJyQLiebIYGVp28PvgkhB8396SWULnLgC40WLY3pmwpSN\njYZ/VJVYuNuQsk9SVbaW9xIGu1rl/MXoXSdIr0Fa3fybAzpHyHMb2u4CNF2TFLMg\nJ6hFxptrL0I2coo0cckQXNy4a8/j7NtR2Oda/fxBAoGAOVBrt+hVkLNerc3RiE4T\n5B8m90ItSFPf2ZZqUKU8dQkkswKi2J3r6WdXoJWbOJ5opDT4Vhj1sZBo0/W49SmF\n1Bx6t3fbabfytvL/T6qWi6ZDq+LuGPpRR6qHYzNJuQiSsq3sqWaxU0Njo7hGahBz\n26yRbGpsY4vQXgAw7BaTHek=\n-----END PRIVATE KEY-----\n",
+  "client_email": "translation-pm-tricks@turing-lyceum-293122.iam.gserviceaccount.com",
+  "client_id": "101988733835389552882",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "projectId": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation-pm-tricks%40turing-lyceum-293122.iam.gserviceaccount.com"
+}

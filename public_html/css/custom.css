@@ -1,0 +1,180 @@
+ul {
+    list-style-type: decimal;
+}
+
+ul.knowledgeArea li, ul.Proccess_Group li, ul.Project_Group li {
+    padding: 5px 10px;
+    margin: 5px 0;
+    border-bottom: 1px solid #eee;
+}
+ul.knowledgeArea i, ul.Proccess_Group i, ul.Project_Group i {
+    float: right;
+    color: #DC143C;
+    cursor: pointer;
+}
+form.add_karea_form div input, form.add_pgroup_form div input, form.add_PMG div input {
+    margin: 0 0 0 10px;
+}
+form.add_karea_form div a, form.add_pgroup_form div a, form.PMG div a {
+    margin: 0 0 0 10px;
+}
+form.add_karea_form div label, form.add_pgroup_form div label, form.PMG div label{
+    font-weight: bold;
+}
+div.save-data a {
+    color: white !important;
+    float: right;
+}
+
+
+
+/*
+-----------------------------------
+    VIEW --> (quiz.index)
+-----------------------------------
+*/
+input[type="radio"] {
+    margin-right: 15px;
+}
+.form-1 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 600px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #fff;
+    padding: 20px 30px;
+}
+.st-row {
+    padding: 0 0 10px 0;
+    margin: 16px 0 16px 0;
+    border-bottom: 1px solid #ccc;
+    
+}
+.question-text {
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin: 0 0 20px 0;
+}
+.contral-question {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    margin: 16px 0;
+}
+.radio {
+    display: block;
+    min-width: 100%;
+    margin: 5px 0;
+    border-radius: 9px !important;
+    border: 1px solid rgb(204, 204, 204);
+    min-height: 40px;
+    padding: 12px 0 10px 20px;
+    margin-bottom: 10px;
+}
+#result {
+    padding: 16px 9px;
+}
+table td[class*=col-], table th[class*=col-] {
+    position: static;
+    display: table-cell;
+    float: none;
+}
+div#result h2, div#result h3{
+    font-weight: 500;
+}
+div#result small {
+    font-weight: 300;
+    font-size: 20px;
+    float:right;
+}
+div#result h3 {
+    text-align: center;
+}
+div#result h4,div#result h5 {
+    font-weight: 300;
+}
+div#result table td {
+    vertical-align: middle !important;
+    
+    text-align: center;
+}
+div#result div {
+    text-align: center;
+}
+
+.flagedItem{
+    padding: 30px;
+    background-color: bisque;
+    /* font-size: 22px; */
+    font-weight: bold;
+    cursor:pointer;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.flaged_body {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+/*
+    ********************
+    user home page style
+    ********************
+*/
+
+.package p {
+    padding: 15px;
+    text-align: justify;
+}
+
+
+#optimizeForm {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+}
+#optimizeForm .item {
+    
+    margin: 0px 5px 5px 0;
+    width: 220px;
+    height: 200px;
+    padding: 10px 10px;
+    cursor: pointer;
+    background-color:crimson;
+    color: white;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.primeQuizViewWM{
+    background-image: url('../img/wm.png');
+    background-size:cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-position: 50% 0;
+
+}
+
+#next {
+
+}
+
+a#prev, a#next, a.aElement {
+    color: #333 !important;
+}
+a#prev:hover, a#next:hover, a.aElement:hover{
+    text-decoration: none !important;
+    
+    color: dimgray !important;
+
+}
